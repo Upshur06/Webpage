@@ -152,7 +152,7 @@ h2{
 }
 
 
-@media all and (min-width: 380px) and (max-width: 767){
+@media all and (min-width: 380px) and (max-width: 767px){
   .a {
       height: 1200px;
   }
